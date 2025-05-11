@@ -50,9 +50,7 @@ body {
 	line-height: 1;
     position: relative;  
 }
-.impact__content {
-  padding-bottom: 50px;
-}
+
 }
 .heart {
 	position: fixed;
@@ -103,6 +101,7 @@ body {
 margin-bottom: 80px;
 }
 .impact__content{
+padding-bottom: 50px;
 flex: 0 1 50%;
 }
 .impact__haeder{
